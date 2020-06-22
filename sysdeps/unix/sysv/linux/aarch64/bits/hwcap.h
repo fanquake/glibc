@@ -54,3 +54,4 @@
 #define HWCAP_SB		(1 << 29)
 #define HWCAP_PACA		(1 << 30)
 #define HWCAP_PACG		(1UL << 31)
+#define HWCAP2_BTI      (1 << 17)
